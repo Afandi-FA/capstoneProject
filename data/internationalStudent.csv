@@ -1,0 +1,1046 @@
+"row_num","Country","Year","Value"
+1,China,2017,839758
+2,India,2017,327377
+3,Germany,2017,122286
+4,Viet Nam,2017,93590
+5,France,2017,93568
+6,the Republic of Korea,2017,91065
+7,Kazakhstan,2017,84196
+8,Nigeria,2017,82505
+9,Saudi Arabia,2017,81471
+10,the United States,2017,80819
+11,the Ukraine,2017,77126
+12,Italy,2017,73369
+13,unknown countries,2017,68568
+14,Nepal,2017,63828
+15,Malaysia,2017,58457
+16,Brazil,2017,57035
+17,Bangladesh,2017,56963
+18,the Russian Federation,2017,55547
+19,Morocco,2017,50670
+20,the Islamic Republic of Iran,2017,50379
+21,Pakistan,2017,49114
+22,Canada,2017,48199
+23,the Syrian Arab Republic,2017,46314
+24,Turkmenistan,2017,46119
+25,Turkey,2017,44982
+26,Indonesia,2017,44887
+27,Azerbaijan,2017,42652
+28,Colombia,2017,41873
+29,Spain,2017,41250
+30,Greece,2017,37770
+31,"Hong Kong, Special Administrative Region of China",2017,36426
+32,Romania,2017,35910
+33,the United Kingdom,2017,35238
+34,Uzbekistan,2017,34690
+35,Mexico,2017,33882
+36,Slovakia,2017,32438
+37,Japan,2017,31307
+38,Peru,2017,30839
+39,Thailand,2017,29927
+40,Egypt,2017,29241
+41,Afghanistan,2017,28964
+42,Iraq,2017,28073
+43,Algeria,2017,25237
+44,Cameroon,2017,25061
+45,Poland,2017,25051
+46,Bulgaria,2017,25028
+47,Cyprus,2017,24429
+48,Singapore,2017,23394
+49,Belarus,2017,22283
+50,Tunisia,2017,22102
+51,Kuwait,2017,21957
+52,the Yemen,2017,21920
+53,Ecuador,2017,20745
+54,Palestine,2017,20652
+55,Sri Lanka,2017,20398
+56,the Bolivarian Republic of Venezuela,2017,19848
+57,Tajikistan,2017,19537
+58,Austria,2017,19131
+59,Zimbabwe,2017,18940
+60,the Republic of Moldova,2017,18675
+61,Jordan,2017,18483
+62,the Netherlands,2017,18174
+63,Norway,2017,17609
+64,Albania,2017,17430
+65,the Philippines,2017,16459
+66,Sweden,2017,16388
+67,Lebanon,2017,16266
+68,Serbia,2017,15904
+69,the Plurinational State of Bolivia,2017,15615
+70,Chile,2017,15461
+71,Bosnia and Herzegovina,2017,15391
+72,Angola,2017,15252
+73,Ireland,2017,14958
+74,Belgium,2017,14882
+75,Israel,2017,14858
+76,Kenya,2017,14634
+77,Switzerland,2017,14224
+78,Portugal,2017,14064
+79,Côte d'Ivoire,2017,13576
+80,Ghana,2017,13492
+81,Paraguay,2017,13371
+82,Australia,2017,13212
+83,the Czechia,2017,13159
+84,Senegal,2017,12499
+85,Hungary,2017,12317
+86,the Congo,2017,11477
+87,Libya,2017,11322
+88,Kyrgyzstan,2017,11316
+89,Sudan,2017,11315
+90,Georgia,2017,11290
+91,the Democratic Republic of the Congo,2017,11268
+92,the United Arab Emirates,2017,11244
+93,Luxembourg,2017,11017
+94,Oman,2017,10929
+95,Finland,2017,10865
+96,Mongolia,2017,10550
+97,Lithuania,2017,10405
+98,South Africa,2017,10347
+99,Croatia,2017,9668
+100,Haiti,2017,9419
+101,Mali,2017,8993
+102,Guinea,2017,8876
+103,Argentina,2017,8059
+104,Mauritius,2017,7584
+105,Chad,2017,7087
+106,Benin,2017,7043
+107,Gabon,2017,7016
+108,Myanmar,2017,7002
+109,Ethiopia,2017,6806
+110,the United Republic of Tanzania,2017,6752
+111,Qatar,2017,6190
+112,Togo,2017,6004
+113,Burkina Faso,2017,5886
+114,Armenia,2017,5834
+115,Uganda,2017,5474
+116,North Macedonia,2017,5344
+117,Latvia,2017,5288
+118,Denmark,2017,5246
+119,Somalia,2017,5132
+120,Zambia,2017,5053
+121,Bahrain,2017,4837
+122,Uruguay,2017,4807
+123,Cambodia,2017,4799
+124,Montenegro,2017,4797
+125,Madagascar,2017,4751
+126,New Zealand,2017,4681
+127,Jamaica,2017,4626
+128,Mauritania,2017,4437
+129,Namibia,2017,4393
+130,Niger,2017,4383
+131,Dominican Republic,2017,4230
+132,Lao People's Democratic Republic,2017,4156
+133,Bhutan,2017,4080
+134,Rwanda,2017,3919
+135,Estonia,2017,3882
+136,El Salvador,2017,3855
+137,Honduras,2017,3840
+138,Bahamas,2017,3532
+139,Cape Verde,2017,3383
+140,"Macao, Special Administrative Region of China",2017,3354
+141,Slovenia,2017,3313
+142,Panama,2017,3180
+143,Brunei Darussalam,2017,3132
+144,Guatemala,2017,3068
+145,Lesotho,2017,3018
+146,Guinea-Bissau,2017,2985
+147,Comoros,2017,2928
+148,Costa Rica,2017,2914
+149,Mozambique,2017,2866
+150,Burundi,2017,2853
+151,Maldives,2017,2828
+152,Trinidad and Tobago,2017,2825
+153,Nicaragua,2017,2729
+154,Iceland,2017,2641
+155,Timor-Leste,2017,2507
+156,Botswana,2017,2499
+157,Eswatini,2017,2395
+158,Malawi,2017,2346
+159,Cuba,2017,2294
+160,Djibouti,2017,2199
+161,Eritrea,2017,1695
+162,the Central African Republic,2017,1680
+163,the Gambia,2017,1669
+164,Bermuda,2017,1635
+165,Equatorial Guinea,2017,1493
+166,Andorra,2017,1449
+167,Papua New Guinea,2017,1442
+168,Fiji,2017,1419
+169,Sierra Leone,2017,1271
+170,the Democratic People's Republic of Korea,2017,1184
+171,Malta,2017,1062
+172,Liechtenstein,2017,1037
+173,Sao Tome and Principe,2017,987
+174,Gibraltar,2017,941
+175,Liberia,2017,896
+176,Barbados,2017,891
+177,Suriname,2017,862
+178,San Marino,2017,834
+179,Guyana,2017,699
+180,Belize,2017,642
+181,South Sudan,2017,570
+182,Dominica,2017,515
+183,Saint Lucia,2017,513
+184,the Cayman Islands,2017,509
+185,Seychelles,2017,491
+186,Samoa,2017,487
+187,Antigua and Barbuda,2017,474
+188,Tonga,2017,442
+189,Monaco,2017,435
+190,Saint Kitts and Nevis,2017,376
+191,Grenada,2017,347
+192,the British Virgin Islands,2017,311
+193,the Solomon Islands,2017,311
+194,Aruba,2017,242
+195,Saint Vincent and the Grenadines,2017,235
+196,Kiribati,2017,214
+197,the Federated States of Micronesia,2017,184
+198,the Turks and Caicos Islands,2017,177
+199,the Marshall Islands,2017,174
+200,Vanuatu,2017,163
+201,Anguilla,2017,154
+202,Tuvalu,2017,83
+203,Palau,2017,39
+204,Nauru,2017,38
+205,the Holy See,2017,29
+206,Montserrat,2017,25
+207,Niue,2017,8
+208,the Cook Islands,2017,4
+209,Tokelau,2017,2
+1,China,2018,891606
+2,India,2018,359677
+3,Germany,2018,121799
+4,Viet Nam,2018,106911
+5,France,2018,98054
+6,Kazakhstan,2018,86487
+7,the Republic of Korea,2018,86210
+8,Nepal,2018,81156
+9,the United States,2018,78846
+10,the Ukraine,2018,77799
+11,Italy,2018,75745
+12,Saudi Arabia,2018,73344
+13,Brazil,2018,68826
+14,Nigeria,2018,64154
+15,unknown countries,2018,63837
+16,Malaysia,2018,56739
+17,the Syrian Arab Republic,2018,56412
+18,the Russian Federation,2018,55839
+19,the Islamic Republic of Iran,2018,52916
+20,Morocco,2018,51001
+21,Pakistan,2018,48606
+22,Turkmenistan,2018,48197
+23,Colombia,2018,48172
+24,Canada,2018,46825
+25,Turkey,2018,46707
+26,Azerbaijan,2018,44038
+27,Spain,2018,41969
+28,Uzbekistan,2018,41480
+29,Indonesia,2018,40081
+30,Greece,2018,39024
+31,Romania,2018,37411
+32,"Hong Kong, Special Administrative Region of China",2018,36358
+33,the United Kingdom,2018,34727
+34,Mexico,2018,33305
+35,Peru,2018,33125
+36,Egypt,2018,32086
+37,Bangladesh,2018,31432
+38,Slovakia,2018,31429
+39,Japan,2018,31055
+40,Thailand,2018,29864
+41,Algeria,2018,29040
+42,Afghanistan,2018,28866
+43,Iraq,2018,27992
+44,Cyprus,2018,26471
+45,Poland,2018,26263
+46,Bulgaria,2018,25019
+47,Tajikistan,2018,24878
+48,Cameroon,2018,24473
+49,the Bolivarian Republic of Venezuela,2018,23673
+50,Tunisia,2018,23563
+51,Kuwait,2018,23438
+52,Singapore,2018,22785
+53,Ecuador,2018,22618
+54,Belarus,2018,22611
+55,Palestine,2018,22345
+56,Sri Lanka,2018,21890
+57,Austria,2018,21434
+58,the Republic of Moldova,2018,20845
+59,Jordan,2018,19006
+60,Albania,2018,18692
+61,the Yemen,2018,18590
+62,Zimbabwe,2018,18574
+63,the Philippines,2018,17585
+64,the Netherlands,2018,17177
+65,the Plurinational State of Bolivia,2018,17163
+66,Norway,2018,17113
+67,Chile,2018,16527
+68,Lebanon,2018,16363
+69,Switzerland,2018,16319
+70,Israel,2018,16238
+71,Sweden,2018,15790
+72,Ghana,2018,15777
+73,Belgium,2018,15719
+74,Serbia,2018,15638
+75,Bosnia and Herzegovina,2018,15340
+76,Portugal,2018,15018
+77,Ireland,2018,14852
+78,Kenya,2018,14718
+79,Paraguay,2018,14377
+80,Côte d'Ivoire,2018,13817
+81,Senegal,2018,13358
+82,Angola,2018,13290
+83,Australia,2018,12857
+84,Hungary,2018,12782
+85,Kyrgyzstan,2018,12472
+86,the Czechia,2018,12288
+87,Mongolia,2018,11902
+88,the United Arab Emirates,2018,11859
+89,Luxembourg,2018,11578
+90,the Democratic Republic of the Congo,2018,11531
+91,the Congo,2018,11293
+92,South Africa,2018,11218
+93,Finland,2018,11215
+94,Lithuania,2018,10377
+95,Georgia,2018,10367
+96,Oman,2018,10212
+97,Croatia,2018,9728
+98,Sudan,2018,8769
+99,Qatar,2018,8593
+100,Argentina,2018,8258
+101,Libya,2018,8192
+102,Mali,2018,8115
+103,Myanmar,2018,7881
+104,Guinea,2018,7822
+105,Gabon,2018,7157
+106,Mauritius,2018,7120
+107,Ethiopia,2018,7115
+108,Benin,2018,6529
+109,Armenia,2018,6504
+110,Togo,2018,6257
+111,Denmark,2018,5858
+112,North Macedonia,2018,5677
+113,the United Republic of Tanzania,2018,5474
+114,Burkina Faso,2018,5416
+115,Montenegro,2018,5204
+116,Latvia,2018,5179
+117,Namibia,2018,5153
+118,Uruguay,2018,5095
+119,Chad,2018,4996
+120,Uganda,2018,4950
+121,New Zealand,2018,4903
+122,Jamaica,2018,4764
+123,Bahrain,2018,4578
+124,Zambia,2018,4525
+125,Dominican Republic,2018,4465
+126,Haiti,2018,4433
+127,Mauritania,2018,4349
+128,Somalia,2018,4338
+129,Cambodia,2018,4312
+130,Madagascar,2018,4260
+131,Niger,2018,4251
+132,Bhutan,2018,4134
+133,Honduras,2018,4092
+134,El Salvador,2018,3968
+135,Rwanda,2018,3718
+136,Estonia,2018,3692
+137,Cape Verde,2018,3668
+138,Bahamas,2018,3490
+139,Panama,2018,3425
+140,Iceland,2018,3299
+141,Costa Rica,2018,3220
+142,Guatemala,2018,3213
+143,Slovenia,2018,3186
+144,Malawi,2018,3153
+145,Burundi,2018,3121
+146,Lesotho,2018,2991
+147,Nicaragua,2018,2935
+148,Trinidad and Tobago,2018,2791
+149,Mozambique,2018,2759
+150,Guinea-Bissau,2018,2732
+151,"Macao, Special Administrative Region of China",2018,2607
+152,Comoros,2018,2561
+153,Timor-Leste,2018,2476
+154,Botswana,2018,2380
+155,Eswatini,2018,2347
+156,Cuba,2018,2238
+157,Djibouti,2018,2170
+158,Brunei Darussalam,2018,1997
+159,Eritrea,2018,1624
+160,Bermuda,2018,1598
+161,the Gambia,2018,1548
+162,Andorra,2018,1539
+163,the Central African Republic,2018,1467
+164,Maldives,2018,1430
+165,Papua New Guinea,2018,1352
+166,Equatorial Guinea,2018,1319
+167,Sao Tome and Principe,2018,1276
+168,Fiji,2018,1155
+169,Sierra Leone,2018,1150
+170,Malta,2018,1136
+171,Liechtenstein,2018,1084
+172,the Democratic People's Republic of Korea,2018,1062
+173,Lao People's Democratic Republic,2018,1058
+174,San Marino,2018,949
+175,Barbados,2018,936
+176,Gibraltar,2018,931
+177,Liberia,2018,887
+178,Suriname,2018,864
+179,Guyana,2018,735
+180,Dominica,2018,697
+181,Belize,2018,643
+182,Samoa,2018,566
+183,the Cayman Islands,2018,553
+184,Saint Lucia,2018,527
+185,Tonga,2018,490
+186,Antigua and Barbuda,2018,451
+187,Monaco,2018,395
+188,the Solomon Islands,2018,382
+189,Saint Kitts and Nevis,2018,350
+190,Seychelles,2018,348
+191,Aruba,2018,344
+192,Grenada,2018,314
+193,the British Virgin Islands,2018,311
+194,South Sudan,2018,282
+195,Saint Vincent and the Grenadines,2018,226
+196,Kiribati,2018,203
+197,the Marshall Islands,2018,201
+198,the Federated States of Micronesia,2018,189
+199,Vanuatu,2018,176
+200,the Turks and Caicos Islands,2018,173
+201,Anguilla,2018,95
+202,Tuvalu,2018,76
+203,Palau,2018,71
+204,the Holy See,2018,53
+205,Nauru,2018,30
+206,Montserrat,2018,23
+207,Niue,2018,9
+208,Tokelau,2018,7
+209,the Cook Islands,2018,6
+1,China,2019,616700
+2,India,2019,311852
+3,Germany,2019,115059
+4,Viet Nam,2019,99044
+5,France,2019,95422
+6,the United States,2019,89322
+7,Kazakhstan,2019,86616
+8,Nepal,2019,79120
+9,the Ukraine,2019,74929
+10,Italy,2019,74608
+11,the Syrian Arab Republic,2019,67058
+12,Brazil,2019,65320
+13,Turkmenistan,2019,61411
+14,Morocco,2019,54298
+15,Nigeria,2019,52295
+16,Uzbekistan,2019,51877
+17,Pakistan,2019,47406
+18,the Russian Federation,2019,46342
+19,the Islamic Republic of Iran,2019,45697
+20,Colombia,2019,45409
+21,Malaysia,2019,44811
+22,Azerbaijan,2019,43575
+23,Indonesia,2019,42832
+24,Turkey,2019,37471
+25,Greece,2019,37246
+26,unknown countries,2019,36787
+27,Spain,2019,36506
+28,the Republic of Korea,2019,36233
+29,the Yemen,2019,36159
+30,Bangladesh,2019,35236
+31,Egypt,2019,34549
+32,Algeria,2019,30359
+33,Iraq,2019,30354
+34,Peru,2019,30170
+35,Romania,2019,30148
+36,Afghanistan,2019,30069
+37,"Hong Kong, Special Administrative Region of China",2019,29361
+38,the United Kingdom,2019,28197
+39,Tajikistan,2019,27161
+40,Cyprus,2019,25721
+41,Saudi Arabia,2019,25193
+42,Sri Lanka,2019,24871
+43,Bulgaria,2019,24050
+44,Poland,2019,24038
+45,Tunisia,2019,23381
+46,Thailand,2019,23374
+47,Palestine,2019,22762
+48,Belarus,2019,22479
+49,Cameroon,2019,22388
+50,Slovakia,2019,21799
+51,the Bolivarian Republic of Venezuela,2019,21448
+52,Austria,2019,21216
+53,Canada,2019,20382
+54,Ecuador,2019,20308
+55,Portugal,2019,20297
+56,Jordan,2019,19186
+57,Mexico,2019,18987
+58,Singapore,2019,18923
+59,the Philippines,2019,18308
+60,Zimbabwe,2019,17864
+61,the Plurinational State of Bolivia,2019,17492
+62,the Netherlands,2019,17486
+63,Japan,2019,17151
+64,the Republic of Moldova,2019,16547
+65,Switzerland,2019,16097
+66,Belgium,2019,15523
+67,Lebanon,2019,15424
+68,Norway,2019,15350
+69,Paraguay,2019,15065
+70,Chile,2019,14968
+71,Bosnia and Herzegovina,2019,14732
+72,Ireland,2019,14455
+73,Israel,2019,14194
+74,Senegal,2019,14044
+75,Côte d'Ivoire,2019,13982
+76,Ghana,2019,13379
+77,Sweden,2019,13134
+78,Kuwait,2019,12847
+79,Serbia,2019,12569
+80,Kyrgyzstan,2019,12510
+81,Hungary,2019,12217
+82,Kenya,2019,12101
+83,Luxembourg,2019,12019
+84,Mongolia,2019,11992
+85,the Czechia,2019,11142
+86,Angola,2019,10874
+87,the United Arab Emirates,2019,10742
+88,Finland,2019,10623
+89,the Congo,2019,10436
+90,Sudan,2019,10180
+91,Lithuania,2019,10111
+92,Albania,2019,10004
+93,Croatia,2019,9638
+94,San Marino,2019,9598
+95,South Africa,2019,9596
+96,Mali,2019,9227
+97,Georgia,2019,9131
+98,the Democratic Republic of the Congo,2019,8646
+99,Australia,2019,8514
+100,Myanmar,2019,8339
+101,Somalia,2019,8299
+102,Guinea,2019,7982
+103,Libya,2019,7660
+104,Lao People's Democratic Republic,2019,7185
+105,Qatar,2019,7137
+106,Benin,2019,7112
+107,Oman,2019,7100
+108,Mauritius,2019,6770
+109,Gabon,2019,6705
+110,Argentina,2019,6652
+111,Togo,2019,6327
+112,Armenia,2019,6073
+113,Burkina Faso,2019,5932
+114,Chad,2019,5637
+115,the United Republic of Tanzania,2019,5339
+116,Uruguay,2019,5237
+117,Ethiopia,2019,5168
+118,Montenegro,2019,5127
+119,Niger,2019,5122
+120,North Macedonia,2019,5025
+121,Denmark,2019,4959
+122,Cambodia,2019,4740
+123,Latvia,2019,4695
+124,Bhutan,2019,4597
+125,Uganda,2019,4426
+126,Comoros,2019,4368
+127,Slovenia,2019,4308
+128,Haiti,2019,4289
+129,Cape Verde,2019,4284
+130,Zambia,2019,4261
+131,Madagascar,2019,4186
+132,Namibia,2019,4093
+133,Bahrain,2019,3796
+134,Mauritania,2019,3718
+135,Estonia,2019,3441
+136,Guinea-Bissau,2019,3432
+137,New Zealand,2019,3244
+138,Rwanda,2019,3091
+139,Mozambique,2019,3064
+140,Maldives,2019,2978
+141,Nicaragua,2019,2856
+142,Lesotho,2019,2833
+143,Dominican Republic,2019,2635
+144,El Salvador,2019,2634
+145,Burundi,2019,2391
+146,Cuba,2019,2372
+147,Iceland,2019,2284
+148,Botswana,2019,2257
+149,Djibouti,2019,2256
+150,"Macao, Special Administrative Region of China",2019,2244
+151,Malawi,2019,2199
+152,Costa Rica,2019,2135
+153,Eswatini,2019,2133
+154,Honduras,2019,2114
+155,Jamaica,2019,1957
+156,Guatemala,2019,1897
+157,Panama,2019,1888
+158,Brunei Darussalam,2019,1736
+159,the Gambia,2019,1593
+160,Bahamas,2019,1524
+161,Papua New Guinea,2019,1471
+162,Andorra,2019,1431
+163,the Central African Republic,2019,1420
+164,Eritrea,2019,1360
+165,South Sudan,2019,1341
+166,Trinidad and Tobago,2019,1264
+167,Sao Tome and Principe,2019,1248
+168,Fiji,2019,1180
+169,Liechtenstein,2019,1164
+170,Malta,2019,1145
+171,Gibraltar,2019,937
+172,Suriname,2019,920
+173,Bermuda,2019,906
+174,Sierra Leone,2019,838
+175,Equatorial Guinea,2019,814
+176,Barbados,2019,795
+177,Guyana,2019,722
+178,Timor-Leste,2019,707
+179,Liberia,2019,659
+180,the Democratic People's Republic of Korea,2019,654
+181,Seychelles,2019,553
+182,Monaco,2019,485
+183,Saint Lucia,2019,423
+184,the Cayman Islands,2019,387
+185,the Solomon Islands,2019,381
+186,Belize,2019,342
+187,Tonga,2019,327
+188,Dominica,2019,318
+189,Antigua and Barbuda,2019,296
+190,Saint Vincent and the Grenadines,2019,289
+191,Grenada,2019,279
+192,Samoa,2019,255
+193,the British Virgin Islands,2019,214
+194,Saint Kitts and Nevis,2019,172
+195,Vanuatu,2019,157
+196,Kiribati,2019,145
+197,the Turks and Caicos Islands,2019,129
+198,Tuvalu,2019,85
+199,Anguilla,2019,81
+200,Aruba,2019,71
+201,Palau,2019,35
+202,the Holy See,2019,31
+203,Nauru,2019,30
+204,the Federated States of Micronesia,2019,24
+205,Montserrat,2019,22
+206,the Marshall Islands,2019,17
+207,Tokelau,2019,12
+208,Niue,2019,3
+209,the Cook Islands,2019,2
+1,China,2020,969604
+2,India,2020,486477
+3,Viet Nam,2020,133918
+4,France,2020,104727
+5,Germany,2020,101382
+6,Nepal,2020,98554
+7,the United States,2020,95784
+8,Brazil,2020,87149
+9,the Republic of Korea,2020,83514
+10,Italy,2020,79402
+11,the Syrian Arab Republic,2020,78453
+12,Nigeria,2020,68879
+13,the Islamic Republic of Iran,2020,61622
+14,Pakistan,2020,59681
+15,unknown countries,2020,59122
+16,Morocco,2020,58619
+17,Uzbekistan,2020,58507
+18,Indonesia,2020,58491
+19,the Ukraine,2020,57056
+20,Saudi Arabia,2020,55887
+21,Colombia,2020,55155
+22,the Russian Federation,2020,54801
+23,Malaysia,2020,54190
+24,Turkey,2020,49422
+25,Canada,2020,48693
+26,Bangladesh,2020,48608
+27,Spain,2020,44487
+28,Egypt,2020,39233
+29,Turkmenistan,2020,37783
+30,Greece,2020,37386
+31,the United Kingdom,2020,35514
+32,"Hong Kong, Special Administrative Region of China",2020,35201
+33,Peru,2020,34761
+34,the Yemen,2020,34721
+35,Azerbaijan,2020,34140
+36,Mexico,2020,34060
+37,Iraq,2020,33661
+38,Japan,2020,32251
+39,Thailand,2020,31507
+40,the Bolivarian Republic of Venezuela,2020,31333
+41,Afghanistan,2020,30480
+42,Slovakia,2020,30293
+43,Algeria,2020,30051
+44,Sri Lanka,2020,29151
+45,Romania,2020,28617
+46,the Philippines,2020,25661
+47,Cameroon,2020,25641
+48,Cyprus,2020,25471
+49,Poland,2020,24842
+50,Palestine,2020,24122
+51,Tunisia,2020,23806
+52,Kuwait,2020,23340
+53,Austria,2020,23205
+54,Ecuador,2020,22411
+55,Jordan,2020,22279
+56,Bulgaria,2020,22072
+57,Singapore,2020,21464
+58,the Plurinational State of Bolivia,2020,19856
+59,the Netherlands,2020,19072
+60,Zimbabwe,2020,18409
+61,Lebanon,2020,18178
+62,Chile,2020,18064
+63,Switzerland,2020,17960
+64,Kazakhstan,2020,17900
+65,Israel,2020,17802
+66,Ghana,2020,17736
+67,Portugal,2020,16737
+68,Côte d'Ivoire,2020,16544
+69,Kenya,2020,16325
+70,Paraguay,2020,16257
+71,Senegal,2020,15854
+72,the Republic of Moldova,2020,15509
+73,Norway,2020,15264
+74,Bosnia and Herzegovina,2020,15035
+75,Serbia,2020,14822
+76,the United Arab Emirates,2020,14679
+77,Sweden,2020,14401
+78,Mongolia,2020,14160
+79,Ireland,2020,14144
+80,Belgium,2020,13627
+81,Australia,2020,13215
+82,Myanmar,2020,13116
+83,Belarus,2020,12738
+84,Hungary,2020,12637
+85,Luxembourg,2020,12172
+86,South Africa,2020,12017
+87,the Czechia,2020,11737
+88,the Democratic Republic of the Congo,2020,11414
+89,Albania,2020,11393
+90,Angola,2020,10966
+91,Sudan,2020,10655
+92,Haiti,2020,10343
+93,Oman,2020,10236
+94,the Congo,2020,10151
+95,Somalia,2020,10135
+96,Mali,2020,9912
+97,Finland,2020,9868
+98,Argentina,2020,9657
+99,Croatia,2020,9590
+100,Lao People's Democratic Republic,2020,9128
+101,Lithuania,2020,8935
+102,Guinea,2020,8748
+103,Georgia,2020,8540
+104,Libya,2020,8295
+105,Gabon,2020,8027
+106,Ethiopia,2020,7896
+107,Qatar,2020,7650
+108,Cambodia,2020,7488
+109,Benin,2020,7294
+110,Burkina Faso,2020,6956
+111,Mauritius,2020,6940
+112,Togo,2020,6926
+113,Uruguay,2020,6084
+114,Cape Verde,2020,5986
+115,the United Republic of Tanzania,2020,5873
+116,Tajikistan,2020,5816
+117,Niger,2020,5786
+118,Kyrgyzstan,2020,5767
+119,Chad,2020,5725
+120,Guinea-Bissau,2020,5650
+121,North Macedonia,2020,5620
+122,Denmark,2020,5587
+123,Bhutan,2020,5386
+124,Rwanda,2020,5383
+125,Jamaica,2020,5307
+126,Montenegro,2020,5171
+127,Uganda,2020,5051
+128,New Zealand,2020,4896
+129,Madagascar,2020,4784
+130,Mauritania,2020,4548
+131,Honduras,2020,4526
+132,Zambia,2020,4449
+133,Bahrain,2020,4171
+134,Bahamas,2020,4139
+135,Comoros,2020,4067
+136,El Salvador,2020,4053
+137,Dominican Republic,2020,3934
+138,Latvia,2020,3922
+139,Namibia,2020,3547
+140,Costa Rica,2020,3537
+141,Mozambique,2020,3460
+142,Panama,2020,3312
+143,Nicaragua,2020,3248
+144,Cuba,2020,3112
+145,Guatemala,2020,3111
+146,Maldives,2020,3029
+147,Slovenia,2020,2957
+148,Estonia,2020,2855
+149,"Macao, Special Administrative Region of China",2020,2740
+150,Trinidad and Tobago,2020,2722
+151,Iceland,2020,2609
+152,Lesotho,2020,2575
+153,Brunei Darussalam,2020,2564
+154,Burundi,2020,2525
+155,Armenia,2020,2500
+156,Djibouti,2020,2494
+157,Malawi,2020,2354
+158,Botswana,2020,2183
+159,Eswatini,2020,2032
+160,the Gambia,2020,1980
+161,Andorra,2020,1564
+162,Eritrea,2020,1390
+163,the Central African Republic,2020,1382
+164,Papua New Guinea,2020,1337
+165,Sao Tome and Principe,2020,1310
+166,Fiji,2020,1232
+167,Gibraltar,2020,1215
+168,Malta,2020,1160
+169,Liechtenstein,2020,1159
+170,Bermuda,2020,1155
+171,San Marino,2020,1127
+172,Liberia,2020,1092
+173,Equatorial Guinea,2020,1073
+174,Sierra Leone,2020,1050
+175,Dominica,2020,1042
+176,Barbados,2020,953
+177,Guyana,2020,842
+178,the Democratic People's Republic of Korea,2020,778
+179,Timor-Leste,2020,728
+180,Belize,2020,702
+181,South Sudan,2020,678
+182,Seychelles,2020,627
+183,the Cayman Islands,2020,603
+184,Antigua and Barbuda,2020,523
+185,Saint Lucia,2020,514
+186,Monaco,2020,513
+187,Tonga,2020,481
+188,Aruba,2020,388
+189,Saint Kitts and Nevis,2020,387
+190,the Solomon Islands,2020,372
+191,Grenada,2020,358
+192,the British Virgin Islands,2020,356
+193,Samoa,2020,327
+194,Suriname,2020,310
+195,Saint Vincent and the Grenadines,2020,244
+196,Kiribati,2020,189
+197,Vanuatu,2020,182
+198,the Turks and Caicos Islands,2020,164
+199,Anguilla,2020,120
+200,Palau,2020,103
+201,the Cook Islands,2020,90
+202,Tuvalu,2020,77
+203,Nauru,2020,51
+204,the Federated States of Micronesia,2020,47
+205,Montserrat,2020,31
+206,the Marshall Islands,2020,30
+207,the Holy See,2020,26
+208,Tokelau,2020,10
+209,Niue,2020,7
+1,China,2021,879862
+2,India,2021,471209
+3,Germany,2021,103110
+4,France,2021,100305
+5,Viet Nam,2021,89742
+6,the Syrian Arab Republic,2021,89350
+7,unknown countries,2021,89111
+8,the United States,2021,87028
+9,Brazil,2021,84460
+10,Italy,2021,79032
+11,Nigeria,2021,76746
+12,the Republic of Korea,2021,71392
+13,Nepal,2021,69686
+14,the Islamic Republic of Iran,2021,65913
+15,Pakistan,2021,65817
+16,Morocco,2021,65208
+17,the Ukraine,2021,62273
+18,the Russian Federation,2021,56915
+19,Uzbekistan,2021,54946
+20,Colombia,2021,54704
+21,Turkey,2021,49796
+22,Bangladesh,2021,48553
+23,Saudi Arabia,2021,46563
+24,Indonesia,2021,45896
+25,Canada,2021,45574
+26,Egypt,2021,42351
+27,Spain,2021,42333
+28,Greece,2021,37531
+29,Turkmenistan,2021,37286
+30,Azerbaijan,2021,36557
+31,Malaysia,2021,36071
+32,Peru,2021,35109
+33,"Hong Kong, Special Administrative Region of China",2021,34421
+34,the United Kingdom,2021,34346
+35,Mexico,2021,31684
+36,Romania,2021,31361
+37,Algeria,2021,30800
+38,Iraq,2021,30736
+39,Slovakia,2021,30459
+40,the Yemen,2021,30425
+41,the Bolivarian Republic of Venezuela,2021,30129
+42,Japan,2021,28498
+43,Cameroon,2021,26881
+44,Cyprus,2021,26201
+45,Poland,2021,25487
+46,Ecuador,2021,25057
+47,Tunisia,2021,25012
+48,Palestine,2021,24654
+49,Austria,2021,24481
+50,the Philippines,2021,23622
+51,Kuwait,2021,22984
+52,Jordan,2021,22735
+53,Sri Lanka,2021,22481
+54,Bulgaria,2021,22096
+55,Thailand,2021,21029
+56,Lebanon,2021,20681
+57,Kazakhstan,2021,19373
+58,Ghana,2021,18873
+59,Singapore,2021,18644
+60,Israel,2021,18239
+61,Zimbabwe,2021,18135
+62,Chile,2021,18020
+63,Switzerland,2021,17943
+64,the Netherlands,2021,17871
+65,Afghanistan,2021,17841
+66,Portugal,2021,17665
+67,the Plurinational State of Bolivia,2021,17602
+68,Côte d'Ivoire,2021,17135
+69,the United Arab Emirates,2021,16800
+70,Senegal,2021,16715
+71,the Republic of Moldova,2021,16530
+72,Kenya,2021,15660
+73,Bosnia and Herzegovina,2021,14904
+74,Serbia,2021,14864
+75,Belarus,2021,14796
+76,Ireland,2021,14752
+77,Paraguay,2021,14425
+78,Norway,2021,14135
+79,Albania,2021,13781
+80,Belgium,2021,13450
+81,Sweden,2021,13080
+82,Hungary,2021,12568
+83,Luxembourg,2021,12530
+84,Haiti,2021,12474
+85,the Czechia,2021,11783
+86,Australia,2021,11762
+87,Somalia,2021,11404
+88,Sudan,2021,10991
+89,South Africa,2021,10897
+90,Mongolia,2021,10700
+91,Oman,2021,10419
+92,Croatia,2021,9989
+93,the Congo,2021,9692
+94,Argentina,2021,9584
+95,the Democratic Republic of the Congo,2021,9110
+96,Finland,2021,8963
+97,Angola,2021,8920
+98,Mali,2021,8628
+99,Gabon,2021,8524
+100,Lithuania,2021,8441
+101,Ethiopia,2021,8326
+102,Georgia,2021,8293
+103,Guinea,2021,7884
+104,Benin,2021,7587
+105,Qatar,2021,7352
+106,Lao People's Democratic Republic,2021,7290
+107,Libya,2021,6949
+108,Guinea-Bissau,2021,6716
+109,Togo,2021,6504
+110,Mauritius,2021,6253
+111,Chad,2021,6246
+112,Cape Verde,2021,6224
+113,Burkina Faso,2021,6172
+114,Myanmar,2021,6155
+115,the United Republic of Tanzania,2021,5883
+116,Niger,2021,5821
+117,North Macedonia,2021,5683
+118,Uruguay,2021,5664
+119,Denmark,2021,5281
+120,Cambodia,2021,5256
+121,Jamaica,2021,5211
+122,Montenegro,2021,5187
+123,Kyrgyzstan,2021,4928
+124,Uganda,2021,4926
+125,Madagascar,2021,4904
+126,Rwanda,2021,4802
+127,Honduras,2021,4374
+128,Bhutan,2021,4341
+129,Tajikistan,2021,4339
+130,New Zealand,2021,4278
+131,El Salvador,2021,4104
+132,Zambia,2021,4042
+133,Bahrain,2021,4023
+134,Latvia,2021,3981
+135,Bahamas,2021,3697
+136,Dominican Republic,2021,3680
+137,Mozambique,2021,3599
+138,Panama,2021,3470
+139,Nicaragua,2021,3457
+140,Mauritania,2021,3350
+141,Costa Rica,2021,3334
+142,Namibia,2021,3292
+143,Guatemala,2021,2992
+144,Cuba,2021,2863
+145,Estonia,2021,2774
+146,Slovenia,2021,2735
+147,Comoros,2021,2724
+148,Maldives,2021,2721
+149,Djibouti,2021,2651
+150,Iceland,2021,2616
+151,Armenia,2021,2539
+152,Trinidad and Tobago,2021,2502
+153,"Macao, Special Administrative Region of China",2021,2501
+154,Lesotho,2021,2338
+155,Malawi,2021,2200
+156,the Gambia,2021,2073
+157,Botswana,2021,2065
+158,Burundi,2021,2001
+159,Eswatini,2021,2000
+160,Brunei Darussalam,2021,1860
+161,Andorra,2021,1606
+162,the Central African Republic,2021,1377
+163,Sao Tome and Principe,2021,1313
+164,Sierra Leone,2021,1262
+165,Eritrea,2021,1225
+166,Liechtenstein,2021,1190
+167,Dominica,2021,1177
+168,Guyana,2021,1135
+169,Liberia,2021,1124
+170,Malta,2021,1108
+171,Bermuda,2021,1090
+172,Papua New Guinea,2021,1060
+173,Equatorial Guinea,2021,1051
+174,Barbados,2021,1049
+175,Fiji,2021,1041
+176,Gibraltar,2021,1026
+177,Belize,2021,699
+178,Timor-Leste,2021,649
+179,the Democratic People's Republic of Korea,2021,605
+180,the Cayman Islands,2021,602
+181,Saint Lucia,2021,600
+182,Seychelles,2021,571
+183,San Marino,2021,526
+184,Antigua and Barbuda,2021,515
+185,Saint Kitts and Nevis,2021,471
+186,Monaco,2021,461
+187,South Sudan,2021,435
+188,Tonga,2021,400
+189,Grenada,2021,385
+190,Suriname,2021,359
+191,Saint Vincent and the Grenadines,2021,352
+192,Samoa,2021,322
+193,the British Virgin Islands,2021,292
+194,the Solomon Islands,2021,237
+195,the Marshall Islands,2021,200
+196,the Turks and Caicos Islands,2021,160
+197,Aruba,2021,154
+198,Kiribati,2021,145
+199,Anguilla,2021,107
+200,Vanuatu,2021,106
+201,Tuvalu,2021,62
+202,Palau,2021,57
+203,the Federated States of Micronesia,2021,44
+204,Montserrat,2021,43
+205,Nauru,2021,29
+206,the Holy See,2021,24
+207,Niue,2021,16
+208,the Cook Islands,2021,12
+209,Tokelau,2021,2
