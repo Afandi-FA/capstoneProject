@@ -3,4 +3,4 @@ pandas
 numpy
 plotly_express
 plotly
-graph_objects
+plotly_graph_objects
