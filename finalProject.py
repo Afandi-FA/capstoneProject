@@ -13,6 +13,8 @@ st.sidebar.header('Open Mindset')
 video_file = open('data.mp4', 'rb')
 video_bytes = video_file.read()
 st.sidebar.video(video_bytes)
+st.sidebar.markdown("[Gita Irawan Wirjawan, B.B.A., M.B.A., M.P.A.](https://www.youtube.com/shorts/3B7gpUSPIDU)")
+
 
 
 st.title('Populasi No 4 di Dunia, Jumlah Pelajar Internasional _Tidak Masuk_ Top 20.')
@@ -365,7 +367,7 @@ fig.layout.legend.x = -0.3
 st.plotly_chart(fig, use_container_width=True, height=600)
 
 
-st.markdown("diagram diatas menggambarkan bahwa **sedikit sekali** warga indonesia yang menempuh pendidikan di universitas tersebut, hanya hitungan puluhan. **Rata-rata ditahun 2021 hanya 83 orang dan 60 di 2020**, paling banyak di angka 187 yang berlokasi di California University. namun disisi lain, tren pertumbuhannya **cenderung meningkat**, terutama di Stanford University dan Oxford University.")
+st.markdown("diagram diatas menggambarkan bahwa **sedikit sekali** warga indonesia yang menempuh pendidikan di universitas universitas tersebut, hanya hitungan puluhan. **Rata-rata ditahun 2021 hanya 83 orang dan 60 di 2020**, paling banyak di angka 187 yang berlokasi di California University. namun disisi lain, tren pertumbuhannya **cenderung meningkat**, terutama di Stanford University dan Oxford University.")
 
 st.subheader("Berapa Mahasiswa Indonesia?")
 st.markdown("Untuk melihat bagaimana posisi indonesia dibandingkan negara negada lainnya, berikut adalah persebaran mahasiswa internasional tiap tiap negara.")
