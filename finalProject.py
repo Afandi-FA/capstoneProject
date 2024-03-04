@@ -445,7 +445,7 @@ st.markdown("**Australia** yang menjadi negara tujuan pelajar indonesia, 1 dari 
 
 st.subheader("Insight")
 st.markdown("""
-            - jumlah mahasiswa indonesia masih sedikit.
+            - jumlah mahasiswa internasional indonesia masih sedikit.
             - universitas terbaik terpusat di negara amerika.
             - mahasiswa indonesia yang berada di universitas top 10 rata rata hanya 83 mahasiswa saja.
             - destinasi utama pelajar internasional asal indonesia adalah Australia, Malaysia dan Amerika Serikat.
